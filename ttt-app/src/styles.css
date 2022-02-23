@@ -1,6 +1,19 @@
+* {
+  font-family: sans-serif;
+}
+
 table td {
   border: 1px solid grey;
   width: 100px;
   height: 100px;
   text-align: center;
+}
+
+.header {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
 }
